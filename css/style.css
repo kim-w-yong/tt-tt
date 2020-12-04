@@ -1,0 +1,98 @@
+.box{
+    width: 100px;
+    height:100px;
+    background-color: red;
+    transition: all 0.5s ease-in-out;
+}
+
+
+
+@font-face{
+    src: url("./font/Urtd - PexicoMicro-Regular.otf");
+    font-family: pexico;
+}
+
+
+
+.mt{font-size: 7.5em; position: absolute;}
+.st{font-size: 1.5em; position: absolute;}
+.it{font-size: 6px; position: absolute;}
+.ab{position: absolute;}
+
+
+
+<!--타이핑효과>
+
+
+
+#typing {
+    color: snow;
+    white-space: pre-wrap;
+}
+
+ 
+
+@keyframes cursor {
+
+from {border-bottom: 30px solid #fff} 
+50% {border-bottom: 30px solid #272727} 
+to {border-bottom: 30px solid #fff} 
+
+}
+
+
+#typing1 {
+    color: #000000;
+    white-space: pre-wrap;
+}
+
+#typing2 {
+    color: #000000;
+    white-space: pre-wrap;
+}
+
+
+#typing3 {
+    color: #000000;
+    white-space: pre-wrap;
+}
+
+#typing4 {
+    color: #000000;
+    white-space: pre-wrap;
+}
+
+#typing5 {
+    color: #000000; 
+    white-space: pre-wrap;
+}
+
+
+
+
+
+
+
+
+#typingA {
+    color: #000000;
+}
+#typingB {
+    color: #000000;
+}
+#typingC {
+    color: #000000;
+}
+#typingD {
+    color: #000000;
+}
+
+
+
+
+#typingE {
+    color: #000000;
+}
+#typingF {
+    color: #000000;
+}
